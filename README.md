@@ -21,10 +21,13 @@
 ---
 
 ## ELK Dashboard Overview  
-![ELK Dashboard](screenshots/sysmon_dashboard.png)  
+![ELK Dashboard](screensots/elk_dashboard.png)  
 
-##  Sysmon Log Analysis  
-![Sysmon Logs](screenshots/top process and event.png)
+##  Sysmon Analysis  
+![Sysmon Logs](screensots/sysmon_dashboard.png)
+
+## winlogbeat Logs
+![winlogbeat logs](screensots/screensots/winlogbeat_logs.png)
 
 
 ## 🦠 YARA Rule-Based Threat Detection  
