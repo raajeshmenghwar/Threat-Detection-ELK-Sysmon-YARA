@@ -2,6 +2,20 @@
 
  **Designed and configured a threat hunting environment utilizing [ELK Stack](https://www.elastic.co/what-is/elk-stack), [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon), and [YARA](https://virustotal.github.io/yara/) to strengthen log analysis and security monitoring.**  
 
+
+---
+## ELK Dashboard Overview  
+![ELK Dashboard](screensots/elk_dashboard.png)  
+
+## Sysmon Analysis
+![Sysmon Logs](screensots/sysmon_dashboard.png)
+
+## Winlogbeat Logs
+![winlogbeat logs](screensots/winlogbeat_logs.png)
+
+##  OTX Threat Intelligence
+![Alient OTX ](screensots/otx_threat_intel.png)
+
 ---
 
 ## Tools & Techniques  
@@ -20,19 +34,12 @@
 
 ---
 
-## ELK Dashboard Overview  
-![ELK Dashboard](screensots/elk_dashboard.png)  
-
-##  Sysmon Analysis  
-![Sysmon Logs](screensots/sysmon_dashboard.png)
-
-## winlogbeat Logs
-![winlogbeat logs](screensots/screensots/winlogbeat_logs.png)
-
-
-## 🦠 YARA Rule-Based Threat Detection  
-![YARA Detection](screenshots/yara_detection.png)  
+ **This project helped in identifying potential threats, logging suspicious activity, and automating detection using powerful security tools!**  
 
 ---
+ Follow for more updates and insights:
 
-🚀 **This project helped in identifying potential threats, logging suspicious activity, and automating detection using powerful security tools!**  
+- **[LinkedIn](https://www.linkedin.com/in/raajeshmenghwar)**
+- **[Medium](https://raajeshmenghwar.medium.com)**
+
+**Keep hacking and stay curious!**
